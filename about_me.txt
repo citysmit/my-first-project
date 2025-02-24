@@ -1,0 +1,3 @@
+My motivation for learning Node.js stems from a strong interest in building scalable and efficient web applications. As a JavaScript-based runtime, Node.js allows for seamless backend and frontend integration, making it an excellent choice for full-stack development. Its non-blocking, event-driven architecture enhances performance, particularly for real-time applications like chat apps, APIs, and streaming services.
+
+Additionally, Node.js has a vast ecosystem with NPM, making development faster and more flexible. By mastering Node.js, I aim to create high-performance applications, improve my backend development skills, and contribute to modern, dynamic web experiences.
